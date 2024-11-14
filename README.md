@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Streak](https://streak-stats.demolab.com?user=Developer-Linus&theme=dark)
+[https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark](https://git.io/streak-stats)
 
 
 <!--
