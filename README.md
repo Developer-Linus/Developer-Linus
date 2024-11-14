@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Developer-Linus/Developer-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
