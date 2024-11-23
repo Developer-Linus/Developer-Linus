@@ -2,6 +2,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
 
+I am Linus Langat, an aspiring software developer. I'm learning the software development concepts on a daily basis to attain my mission of developing systems that convert user painpoints into memorable experiences. I'm satisfied when I build software systems that are intuitive and user-friendly. Most individuals and businesses are always in need of systems that should address their daily challenges in the evolving world. This is where I come in with the solutions resonating with their needs. A satisfied individuals and business ecosystem are key to improving the quality of lives we live. 
+**Problem-solving** is what I enjoy most. I regard problem as the difference between what we want to achieve and where we are.First, we cannot avoid problems at personal level. We look for solutions to those problems daily. I enjoy this process and I have translated to looking solutions for problems using coding and programming.
+
+
 <!--
 **Developer-Linus/Developer-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
