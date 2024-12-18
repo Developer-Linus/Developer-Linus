@@ -20,6 +20,9 @@
 - A dedication to delivering solutions that resonate with user needs and add value.
 - A commitment to continuous learning and growth to stay ahead in the software development field.
 
+## Contact
+[Send me an email](mailto:linuslangat097@gmail.com)
+
 
 <!--
 **Developer-Linus/Developer-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
