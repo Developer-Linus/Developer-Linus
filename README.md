@@ -19,6 +19,12 @@
 - A problem-solving mindset fueled by creativity and persistence.
 - A dedication to delivering solutions that resonate with user needs and add value.
 - A commitment to continuous learning and growth to stay ahead in the software development field.
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
 
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com)
