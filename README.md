@@ -28,6 +28,7 @@
 
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com)
+Phone Number: +254726687618
 
 
 <!--
