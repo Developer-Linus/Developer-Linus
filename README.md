@@ -25,6 +25,8 @@
 - JavaScript
 - Python
 - Git
+- Bootstrap
+- Unittest
 
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com)
