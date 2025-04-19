@@ -30,7 +30,6 @@
 
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com) <br>
-Phone Number: +254726687618
 
 
 <!--
