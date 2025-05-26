@@ -1,6 +1,9 @@
 # Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
+
+- 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
+
 ## Who I Am
 - I am Linus Langat, an aspiring software developer passionate about transforming ideas into impactful solutions.
 - I continuously learn software development concepts to achieve my mission of building systems that address user pain points and create memorable experiences.
@@ -38,7 +41,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
