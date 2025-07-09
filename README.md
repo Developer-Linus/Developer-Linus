@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
 
