@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
 
 ## Who I Am
-- I am Linus Langat, an aspiring software developer passionate about transforming ideas into impactful solutions.
+- I am Linus Kipkemoi Langat, an aspiring software developer passionate about transforming ideas into impactful solutions.
 - I continuously learn software development concepts to achieve my mission of building systems that address user pain points and create memorable experiences.
 
 ## What Drives Me
