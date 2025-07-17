@@ -30,6 +30,9 @@
 - Git
 - Bootstrap
 - Unittest
+- FastAPI
+- Django
+- DjangoREST
 
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com) <br>
