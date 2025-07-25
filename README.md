@@ -3,6 +3,8 @@
 
 
 - 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
+## My Background Information
+- In the heart of Africa, a young man sits with his laptop in a home. He focuses on identifying challenges facing communities in Africa and thinks how using technology like software engineering can help address these challenges. I believe that software engineering has a potential to solving most of the modern challenges given the opportunity that most of us right now have access to internet. Before I explain much about how I can use software engineering to address societal issues, let me tell you something you might not know about me. My background is in Electrical and Electronics Engineering. I enjoy doing maths and physics and coming out with designs that resonates with user needs. I transitioned to software engineering a year ago. I'm still in the learning journey and with the knowledge I've now, I am really loving the field. I'm now building solutions to address issues that have persisted for long that softwares systems can address. Users are the center of every application and their voice matters. Building a software behind closed doors without involving users is developing a software that will fail before it even reaches its intended users. 
 
 ## Who I Am
 - I am Linus Kipkemoi Langat, an aspiring software developer passionate about transforming ideas into impactful solutions.
