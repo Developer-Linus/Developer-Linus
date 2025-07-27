@@ -41,6 +41,7 @@ I'm always open to exciting opportunities, collaborations, or just a friendly te
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linuslangat097@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linuslangat/)
+[![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Developer_Linus)
 
 
 <!--
