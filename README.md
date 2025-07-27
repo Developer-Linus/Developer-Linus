@@ -36,20 +36,6 @@
 ![Django REST](https://img.shields.io/badge/DjangoREST-FF1709?style=for-the-badge&logo=django&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git
-- Bootstrap
-- Unittest
-- FastAPI
-- Django
-- DjangoREST
-
 ## Contact
 [Send me an email](mailto:linuslangat097@gmail.com) <br>
 
