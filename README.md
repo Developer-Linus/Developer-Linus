@@ -37,7 +37,9 @@
 ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contact
-[Send me an email](mailto:linuslangat097@gmail.com) <br>
+I'm always open to exciting opportunities, collaborations, or just a friendly tech chat. Feel free to reach out via email!
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linuslangat097@gmail.com)
 
 
 <!--
