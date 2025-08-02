@@ -1,4 +1,4 @@
-# Hello, I'm Linus Kipkemoi Langat
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Linus+Kipkemoi+Langat)](https://git.io/typing-svg)
 A passionate software developer from Kenya specializing in web apps, clean energy tech, and community-focused platforms.
 # GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact&langs_count=8&theme=radical)
