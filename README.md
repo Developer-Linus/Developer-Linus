@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact&langs_count=8&theme=radical)
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact&langs_count=8&theme=radical)
 
 
 - 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
