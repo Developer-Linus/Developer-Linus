@@ -1,4 +1,6 @@
 # Hello there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
 
