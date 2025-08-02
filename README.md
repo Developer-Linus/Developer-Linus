@@ -38,7 +38,7 @@
 ![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contact
-I'm always open to exciting opportunities, collaborations, or just a friendly tech chat. Feel free to reach out via email!
+I'm always open to exciting opportunities, collaborations, or just a friendly tech chat. Feel free to reach out!
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linuslangat097@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linuslangat/)
