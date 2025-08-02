@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Linus+Kipkemoi+Langat&size=36&height=60)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Linus+Kipkemoi+Langat&size=36&height=60&width=435)](https://git.io/typing-svg)
 A passionate software developer from Kenya specializing in software applications that turns pain points to memorable experiences.
 # GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact&langs_count=8&theme=radical)
