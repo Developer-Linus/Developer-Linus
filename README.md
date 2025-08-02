@@ -1,9 +1,26 @@
-# Hello there 👋
+# Hello, I'm Linus Kipkemoi Langat
+A passionate software developer from Kenya specializing in web apps, clean energy tech, and community-focused platforms.
+- 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
+# GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Linus&layout=compact&langs_count=8&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats) 
+# Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Developer-Linus&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Developer-Linus&theme=dark)](https://git.io/streak-stats)
 
-- 🌱 I’m currently learning **Next.js** and **Tailwindcss**.
+## Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DjangoREST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## My Background Information
 - In the heart of Africa, a young man sits with his laptop in a home. He focuses on identifying challenges facing communities in Africa and thinks how using technology like software engineering can help address these challenges. The young man is me, Linus Kipkemoi Langat. I believe that software engineering has a great untapped potential to solving most of the modern challenges given the opportunity that most of us right now have access to internet. Before I explain much about how I can use software engineering to address societal issues, let me tell you something you might not know about me. My background is in Electrical and Electronics Engineering. I enjoy doing maths and physics and coming out with designs that resonates with user needs. I transitioned to software engineering a year ago. I'm still in the learning journey and with the knowledge I've now, I am really loving the field. I'm now building solutions to address issues that have persisted for long that softwares systems can address. Users are the center of every application and their voice matters. Building a software behind closed doors without involving users is developing a software that will fail before it even reaches its intended users. 
 
@@ -25,17 +42,7 @@
 - A problem-solving mindset fueled by creativity and persistence.
 - A dedication to delivering solutions that resonate with user needs and add value.
 - A commitment to continuous learning and growth to stay ahead in the software development field.
-## Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/DjangoREST-FF1709?style=for-the-badge&logo=django&logoColor=white)
-![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## Contact
 I'm always open to exciting opportunities, collaborations, or just a friendly tech chat. Feel free to reach out!
